@@ -13,8 +13,6 @@ This is a responsive landing page built using HTML5 and CSS3, showcasing the use
 - CSS3 (Flexbox + Media Queries)
 - VS Code + Live Server
 
-## Preview
-![Preview](preview.png)
-
 ## Author
 Mohamed Subhan
+
