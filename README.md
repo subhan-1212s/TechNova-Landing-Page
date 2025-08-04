@@ -1,32 +1,20 @@
-# 🌐 TechNova – Responsive Landing Page
+# TechNova – Responsive Landing Page
 
-A sleek and responsive landing page built using HTML5 and CSS3. It demonstrates modern layout techniques like Flexbox and media queries to create a professional and user-friendly interface.
+This is a responsive landing page built using HTML5 and CSS3, showcasing the use of Flexbox, media queries, and a clean layout.
 
----
+## Features
+- Fully responsive across devices
+- Clean and minimal layout
+- Hero section with CTA
+- Responsive navigation and footer
 
-## 🔥 Features
-
-- ✅ Responsive Header with Navigation
-- ✅ Visually engaging Hero Section
-- ✅ CTA (Call to Action) Button
-- ✅ Mobile-first responsive design
-- ✅ Clean and semantic HTML5
-- ✅ Styled Footer with Social Links
-
----
-
-## 🛠 Tech Stack
-
+## Tools Used
 - HTML5
-- CSS3
-- Flexbox
-- Media Queries
-- Visual Studio Code
-- Live Server
+- CSS3 (Flexbox + Media Queries)
+- VS Code + Live Server
 
----
+## Preview
+![Preview](preview.png)
 
-## 📸 Preview
-
-> Add a screenshot named `preview.png` to your root folder.
-
+## Author
+Mohamed Subhan
