@@ -15,4 +15,3 @@ This is a responsive landing page built using HTML5 and CSS3, showcasing the use
 
 ## Author
 Mohamed Subhan
-
